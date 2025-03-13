@@ -1,0 +1,33 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "vault_runes:item/unidentified_rune"
+  },
+  "overrides": [
+    { "predicate": { "vault_runes:state": 0.0 }, "model": "vault_runes:item/unidentified_rune" },
+
+    { "predicate": { "vault_runes:god": 0.0, "vault_runes:tier": 0.2 }, "model": "vault_runes:item/idona_rune1" },
+    { "predicate": { "vault_runes:god": 0.0, "vault_runes:tier": 0.4 }, "model": "vault_runes:item/idona_rune2" },
+    { "predicate": { "vault_runes:god": 0.0, "vault_runes:tier": 0.6 }, "model": "vault_runes:item/idona_rune3" },
+    { "predicate": { "vault_runes:god": 0.0, "vault_runes:tier": 0.8 }, "model": "vault_runes:item/idona_rune4" },
+    { "predicate": { "vault_runes:god": 0.0, "vault_runes:tier": 1.0 }, "model": "vault_runes:item/idona_rune5" },
+
+    { "predicate": { "vault_runes:god": 0.25, "vault_runes:tier": 0.2 }, "model": "vault_runes:item/velara_rune1" },
+    { "predicate": { "vault_runes:god": 0.25, "vault_runes:tier": 0.4 }, "model": "vault_runes:item/velara_rune2" },
+    { "predicate": { "vault_runes:god": 0.25, "vault_runes:tier": 0.6 }, "model": "vault_runes:item/velara_rune3" },
+    { "predicate": { "vault_runes:god": 0.25, "vault_runes:tier": 0.8 }, "model": "vault_runes:item/velara_rune4" },
+    { "predicate": { "vault_runes:god": 0.25, "vault_runes:tier": 1.0 }, "model": "vault_runes:item/velara_rune5" },
+
+    { "predicate": { "vault_runes:god": 0.5, "vault_runes:tier": 0.2 }, "model": "vault_runes:item/tenos_rune1" },
+    { "predicate": { "vault_runes:god": 0.5, "vault_runes:tier": 0.4 }, "model": "vault_runes:item/tenos_rune2" },
+    { "predicate": { "vault_runes:god": 0.5, "vault_runes:tier": 0.6 }, "model": "vault_runes:item/tenos_rune3" },
+    { "predicate": { "vault_runes:god": 0.5, "vault_runes:tier": 0.8 }, "model": "vault_runes:item/tenos_rune4" },
+    { "predicate": { "vault_runes:god": 0.5, "vault_runes:tier": 1.0 }, "model": "vault_runes:item/tenos_rune5" },
+
+    { "predicate": { "vault_runes:god": 0.75, "vault_runes:tier": 0.2 }, "model": "vault_runes:item/wendarr_rune1" },
+    { "predicate": { "vault_runes:god": 0.75, "vault_runes:tier": 0.4 }, "model": "vault_runes:item/wendarr_rune2" },
+    { "predicate": { "vault_runes:god": 0.75, "vault_runes:tier": 0.6 }, "model": "vault_runes:item/wendarr_rune3" },
+    { "predicate": { "vault_runes:god": 0.75, "vault_runes:tier": 0.8 }, "model": "vault_runes:item/wendarr_rune4" },
+    { "predicate": { "vault_runes:god": 0.75, "vault_runes:tier": 1.0 }, "model": "vault_runes:item/wendarr_rune5" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.dogv2.vaultrunes.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "vault_runes.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

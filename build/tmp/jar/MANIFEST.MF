@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: vault_runes
+Specification-Vendor: dogv2
+Specification-Version: 1
+Implementation-Title: vault-runes
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: dogv2
+Implementation-Timestamp: 2025-03-09T01:22:12+0100
+MixinConfigs: vault_runes.mixins.json
+
